@@ -1,4 +1,4 @@
-const API_URL = "https://student-management-b6l4.onrender.com";
+const API_URL = "https://student-management-b6l4.onrender.com/api/v1/student";
 let studentsData = [];
 
 // Fetch & display students
@@ -104,3 +104,4 @@ async function deleteStudent(id) {
 
 // Initial load
 fetchStudents();
+
