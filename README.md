@@ -29,5 +29,5 @@ A simple **CRUD (Create, Read, Update, Delete)** web application for managing st
 
 ---
 
-**Live Project Deployed link 
+**Live Project Deployed link**
 https://student-management-crud.onrender.com/
